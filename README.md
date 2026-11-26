@@ -34,5 +34,3 @@ This project covers the complete analytics lifecycle—from raw data cleaning an
 *Delivery Time vs. Ratings:** Longer delivery times during peak hours strongly correlate with lower customer ratings and higher cancellation rates.
 *City & Cuisine Profitability:** Highlighted top-performing cities and high-margin cuisines driving overall net profit.
 
-books:** Open the Jupyter notebooks in VS Code or Jupyter to reproduce the data cleaning and exploratory visualizations.
-3. **Explore the Power BI Dashboard:** Open the `.pbix` file in **Power BI Desktop** to interact with the filters and executive KPIs.
